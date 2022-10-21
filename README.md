@@ -1,4 +1,4 @@
-# tebex-vip-manager
+# Tebex Vip Manager - Tebex Sourcemod Plugin
 A better Sourcemod plugin for Tebex.
 
 Tebex is a payment platform for game servers that makes it easy for you to give out VIP and items to customers. By default it uses Rcon but this is not suitable for multiple servers. 
